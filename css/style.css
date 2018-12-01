@@ -1303,7 +1303,7 @@ li.shopping-cart a {
     margin-bottom: 9px;
 }
 
-.courses-active .slick-arrow {
+/* .courses-active .slick-arrow {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -1317,9 +1317,9 @@ li.shopping-cart a {
     visibility: hidden;
     opacity: 0;
     transition: .4s;
-}
+} */
 
-.courses-list:hover .courses-active .slick-arrow {
+/* .courses-list:hover .courses-active .slick-arrow {
     opacity: 1;
     visibility: visible;
 }
@@ -1327,9 +1327,9 @@ li.shopping-cart a {
 .courses-active .slick-next {
     right: -50px;
 
-}
+} */
 
-.courses-active .slick-prev {
+/* .courses-active .slick-prev {
     z-index: 1;
     left: -50px;
 }
@@ -1360,7 +1360,7 @@ li.shopping-cart a {
 
 .courses-single-icon .ti-user {
     display: inline-block;
-}
+} */
 
 .single-curiculum-lecture table td {
     border: 0;
@@ -1628,7 +1628,7 @@ span.student-lecture-number {
 
 .adivisor-text-title-2 h4 {
     font-size: 30px;
-    line-height: ;
+    /* line-height: ; */
 }
 
 .adivisor-text-2 {
